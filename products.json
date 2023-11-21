@@ -17,6 +17,139 @@
                     }
                 }
             }
+        },
+
+        {
+            "sys" : {
+                "id":"2"
+            },
+            "fields":{
+                "title":"Maths Basics",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys" : {
+                "id":"3"
+            },
+            "fields":{
+                "title":"Spanish for everyone",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys" : {
+                "id":"4"
+            },
+            "fields":{
+                "title":"Data Structures and Algorithms",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys" : {
+                "id":"5"
+            },
+            "fields":{
+                "title":"Science for beginners",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys" : {
+                "id":"6"
+            },
+            "fields":{
+                "title":"DataScience full course",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys" : {
+                "id":"7"
+            },
+            "fields":{
+                "title":"Data Stuctures and Algorithms",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys" : {
+                "id":"8"
+            },
+            "fields":{
+                "title":"History and Classics",
+                
+                "price": 30.99,
+                
+                "image":{
+                    "fields":{
+                        "file":{
+                            "url":"images/image2.jpg"
+                        }
+                    }
+                }
+            }
         }
     ]
 }
