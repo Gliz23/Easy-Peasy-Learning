@@ -192,7 +192,9 @@ cart h2{
     margin-left: 1em;
     height: 80px;
 }
-
+.plus-minus{
+    display: flex;
+}
 
      
 
